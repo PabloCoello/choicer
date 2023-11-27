@@ -1,0 +1,5 @@
+{
+    "prompt1":"Te voy a pasar un texto en el que una persona valora varias alternativas para tomar una decisión. Después de pasártelo te haré varias preguntas. Si estás de acuerdo respóndeme escribiendo 'True'",
+    "prompt2":"Por favor, formatea el resultado final para que sea solamente una tabla en la que se sitúen las posibles alternativas en filas y los factores o criterios de decisión en columnas? puedes dejar huecos en blanco si consideras que el usuario no ha aportado suficiente información. Además, puedes añadir una segunda tabla dos espacios más abajo donde se resuman los argumentos a favor y en contra de las distintas alternativas?. Aquí va el texto: ",
+    "prompt2":"Actualiza los valores de la tabla anterior con los nuevos detalles aportados: "
+}
